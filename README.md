@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zerubabel Yonas</h1>
-<h3 align="center">A passionate frontend developer / Data Science Aspirant from Ethiopia</h3>
+<h3 align="center">A passionate frontend developer from Ethiopia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=connagree&label=Profile%20views&color=0e75b6&style=flat" alt="connagree" /> </p>
 
@@ -11,12 +11,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/connag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/connag" height="30" width="40" /></a>
-<a href="https://[linkedin.com/in/https://zerubabel-yonas-23186220a/](https://www.linkedin.com/in/zerubabel-yonas-23186220a/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zerubabel-yonas-23186220a/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://zerubabel___/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/zerubabel___/" height="30" width="40" /></a>
-<a href="https://dribbble.com/zerubabelyon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/zerubabelyon" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/zerubabelyon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/zerubabelyon" height="30" width="40" /></a>
-<a href="[https://www.leetcode.com/u/zerubabel/](https://leetcode.com/u/Zerubabel/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/zerubabel/" height="30" width="40" /></a>
+<a href="https://codepen.io/connag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="connag" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/zerubabel-yonas-23186220a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zerubabel-yonas-23186220a" height="30" width="40" /></a>
+<a href="https://instagram.com/zerubabel___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zerubabel___" height="30" width="40" /></a>
+<a href="https://dribbble.com/https://dribbble.com/zerubabelyon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/zerubabelyon" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/zerubabelyon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="zerubabelyon" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/zerubabel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="zerubabel" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
