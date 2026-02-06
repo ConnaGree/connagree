@@ -1,4 +1,12 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Hey 👋 What's up? I’m Zerubabel</h1>
+<h2 align="center">Frontend & Mobile Application Developer</h2>
+
+<p align="center">
+I build clean, scalable, and user-focused web and mobile applications.
+Experienced with React, Next.js, TypeScript, and modern frontend tooling, as well as mobile development using React Native and Expo.
+I enjoy turning product ideas into intuitive interfaces, focusing on performance, accessibility, and great user experience.
+</p>
+
 
 ###
 
