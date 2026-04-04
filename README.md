@@ -11,6 +11,7 @@
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/connag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/connag" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/zerubabel-yonas-23186220a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zerubabel-yonas-23186220a/" height="30" width="40" /></a>
+<a href="https://instagram.com/zerubabel___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zerubabel___" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/1000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="1000" height="30" width="40" /></a>
 </p>
 
